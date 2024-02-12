@@ -1,2 +1,5 @@
 # EU-Life-Expectancy
-R Code,  SQL, Visuals, and Reports for a data analytics and visualization project looking at life expectancy on the European Continent and within the European Union. 
+R Code,  SQL, Visuals, and Reports for a data analytics and visualization project looking at life expectancy on the European Continent and within the European Union. The EU Life Expectancy Project is a group project I completed during my Master's studies at Brandeis University. The overarching project is broken up into two components Global Life Expectancy and EU Life Expectancy but in this repository you will see the components of the EU portion of the project. For this project you will find R-Markdown code, csv data, a sql report, and a final report consisting of our Tableau and other visuals we compiled for this project. I played a heavier role in this project compiling the majority of our code and doing the majority of the writing of our final report for this project. I completed most of the research for the EU portion of this data so it only made sense for me to compile the final outputs of our project. Other group members contributed heavily on the initial data collection and preperation as well as during out SQL component.
+
+
+Other group members on this project: Linoy Noikas, Salman Haider, and Sana Ijaz
